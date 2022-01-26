@@ -22,7 +22,7 @@
                 <p><?php echo $actualjoke?></p>
             </div>
         </main> 
-        <P class="madeby">Made by <a href="https://bio.link/lovelacecoding">Loulla</p></a>
+        <P class="madeby">Made by <a href="https://bio.link/lovelacecoding">Louella</p></a>
     </div>
 </body>
 

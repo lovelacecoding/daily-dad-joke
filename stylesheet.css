@@ -54,4 +54,20 @@ footer{
     footer {
       display: none;
     }
+
+    .allcontent{
+        height: 90vh;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .wrapper{
+        height: 90vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
 }

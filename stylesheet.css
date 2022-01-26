@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #252525;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.allcontent{
+    height: 100vh;
+}
+.wrapper{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.textbox{
+    width: 80%;
+    text-align: center;
+}
+
+.textbox p{
+    font-size: 2rem;
+}
+
+.textbox h1{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.madeby{
+    margin-left: 1em;
+    font-weight: 300;
+}
+
+a{
+    color: white;
+}

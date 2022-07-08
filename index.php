@@ -25,7 +25,7 @@
             </div>
         </main>
         <footer>
-            <p class="madeby">Find <a href="https://bio.link/lovelacecoding">Louëlla Creemers</p> on social media</a>
+            <p class="madeby">Find <a href="https://bio.link/lovelacecoding">Louëlla Creemers</a> on social media</p>
         </footer>
     </div>
 </body>
